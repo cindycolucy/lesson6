@@ -1,6 +1,6 @@
 package com.practicaljava.lesson6;
 
-public class Employee extends Person implements Payable {
+public class Employee extends Person{
 
 	public Employee(String name) {
 		super(name);
