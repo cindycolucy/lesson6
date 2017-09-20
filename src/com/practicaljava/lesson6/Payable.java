@@ -4,4 +4,6 @@ public interface Payable {
 	
 	int INCREASE_CAP = 20;
 
+	void increasePay(int i);
+
 }
